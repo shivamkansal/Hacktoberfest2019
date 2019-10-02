@@ -1,2 +1,2 @@
 # Hacktoberfest2019
-PR bhejdo plz :)
+Pull Requests bhejdo plz :)
